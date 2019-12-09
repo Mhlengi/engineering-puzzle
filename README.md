@@ -15,8 +15,13 @@ Can you find a subset of these areas where a total of exactly 101000000 people l
 - Python 3+
 
 ## Demonstration
-- Clone project
-- To demonstrate or see the final result, you need `python 3+` to installed in your machine or `virtualenv`
+- To demonstrate or see the final result, you need to follow these instructions
+- Clone/Download a project `git clone https://github.com/Mhlengi/engineering-puzzle.git`
+- Install python3 `brew install python3`
+- Install pip3 `pip3 install virtualenv`
+- Create virtual environment: `virtualenv -p python3 venv`
+- Activate a virtual environment: `. venv/bin/activate`
+- Navigate to source in such a way that you can see `engineering_puzzle.py` file
 - Then run the following command.
 - `python engineering_puzzle.py`
 - If everything work as expected,
@@ -29,5 +34,5 @@ total_exactly_value = 101000000
 ```
 (18897109, 12828837, 9661105, 6371773, 5926800, 5582170, 5564635, 4552402, 4296250, 4224851, 3279933, 3095213, 2812896, 2710489, 2543482, 2226009, 2149127, 2142508, 2134411)
 ```
-## Running units test case
-- Create python virtualenv
+## Running unittest cases
+- `python test_engineering_puzzle.py `
