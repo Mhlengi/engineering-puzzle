@@ -21,7 +21,7 @@ Can you find a subset of these areas where a total of exactly 101000000 people l
 - Install pip3 `pip3 install virtualenv`
 - Create virtual environment: `virtualenv -p python3 venv`
 - Activate a virtual environment: `. venv/bin/activate`
-- Navigate to source in such a way that you can see `engineering_puzzle.py` file
+- Navigate to source(`engineering-puzzle`) in such a way that you can see `engineering_puzzle.py` file
 - Then run the following command.
 - `python engineering_puzzle.py`
 - If everything work as expected,
