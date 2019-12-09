@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/$CACHE_FILE$
+.idea/.gitignore
+.idea/dictionaries
+.idea/engineering-puzzle.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/vcs.xml
+venv/
